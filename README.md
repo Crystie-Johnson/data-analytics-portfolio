@@ -17,6 +17,18 @@ Possesses deep expertise in Azure cloud, utilizing several applications to proce
 Recognized for combining strong technical leadership, systems engineering expertise, cloud operations experience, and business acumen to deliver scalable, high-performing, and governance-driven enterprise data solutions that improve operational efficiency, automation, analytics capabilities, and long-term organizational scalability.
  <br><br>
 
+ <b>🔹 What I Do</br><br>
+I help design, build, troubleshoot, and modernize data solutions. My work focuses on making data accurate, accessible, and useful for business reporting and decision-making.<br><br>
+<b>Key areas I enjoy working on include:</b><br>
+•	Designing data migration and integration solutions across multiple environments<br>
+•	Building, optimizing, and troubleshooting complex SQL queries<br>
+•	Creating, refactoring, and performance-tuning stored procedures<br>
+•	Troubleshooting data issues by producing data receipts for accuracy, traceability, and accountability<br>
+•	Validating reports, datasets, source-to-target mappings, and business rules<br>
+•	Migrating legacy reporting logic into modern semantic models<br>
+•	Designing reusable reporting patterns, validation frameworks, and documentation standards<br>
+•	Improving performance across SQL, reporting, and semantic layers<br>
+
 <b>Highlights of my qualifications include:</b><br>
 
 <b>✓ Database Architecture & Data:</b> Designed and implemented scalable database solutions, optimizing performance and reliability.  Experience with Azure Data Factory, AWS, DevOps, and ServiceNow integration for IT workflow automation. Expertise in DatabasDesign with dmonstrated ability to architect and implement database solutions that enhance performance, reliability, and scalability.<br>
